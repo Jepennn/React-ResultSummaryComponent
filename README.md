@@ -12,7 +12,7 @@ This was my first time usinge react, so learned how to use components and props.
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://reactresultcomponent.vercel.app/
 
 ### Useful resources
 
