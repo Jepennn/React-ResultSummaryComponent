@@ -1,8 +1,20 @@
-# React + Vite
+## My process
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Built with
+- HTML
+- CSS Flexbox
+- [React-Vite](https://reactjs.org/) - JS library
+- Desktop-first workflow
 
-Currently, two official plugins are available:
+### What I learned
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This was my first time usinge react, so learned how to use components and props. From the css I learned how to use gradient. 
+
+
+### Links
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+### Useful resources
+
+- [MDN](https://developer.mozilla.org/en-US/) - Documentation för CSS-styling
+- [React documentation](https://react.dev/) - React documentation for components and props
